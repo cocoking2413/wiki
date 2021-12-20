@@ -1,11 +1,11 @@
 created: 20211213063849856
 creator: coco
-modified: 20211213064216368
+modified: 20211216052707025
 modifier: coco
 tags: temp
 title: log1
 tmap.id: f14be15e-2748-4f5c-9557-d4aa492bebc2
 type: text/vnd.tiddlywiki
 
-1. 排查一下员工未在入职花名册扩展信息中展示的原因;
-2. 我的捐赠汇总（报表）;
+- [-] 排查一下员工未在入职花名册扩展信息中展示的原因;
+- [] 我的捐赠汇总（报表）;
